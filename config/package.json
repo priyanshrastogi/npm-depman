@@ -1,6 +1,6 @@
 {
   "name": "@priyanshrastogi/npm-depman-config",
-  "version": "0.0.2-staging.0",
+  "version": "0.0.2-latest.0",
   "description": "",
   "main": "index.js",
   "scripts": {

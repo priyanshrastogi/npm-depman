@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@priyanshrastogi/npm-depman-config": "staging"
+    "@priyanshrastogi/npm-depman-config": "latest"
   }
 }
