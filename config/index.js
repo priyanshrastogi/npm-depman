@@ -1,3 +1,3 @@
-export const config = {
+module.exports = {
   name: "App Name",
 };
